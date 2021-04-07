@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F3803456-6F8A-4327-8AEA-C533FD9EF159}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TripuraSynod_v1.My.MyApplication</StartupObject>
+    <RootNamespace>TripuraSynod_v1</RootNamespace>
+    <AssemblyName>TripuraSynod_v1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>4A7D9D1FD53E21B1EBF8CE369E82C3AC3403D8E8</ManifestCertificateThumbprint>
+    <ManifestKeyFile>TripuraSynod_v1_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <ApplicationIcon>Presbyterian_ICON.ico</ApplicationIcon>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>en-US</TargetCulture>
+    <ProductName>Tripura Synod</ProductName>
+    <PublisherName>W%40R10CK-SOLUTIONS</PublisherName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <DisallowUrlActivation>true</DisallowUrlActivation>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.2</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TripuraSynod_v1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TripuraSynod_v1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="class_connect_string.vb" />
+    <Compile Include="class_querry.vb" />
+    <Compile Include="class_validation_functions_pra.vb" />
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.vb">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_about.Designer.vb">
+      <DependentUpon>frm_about.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_home.Designer.vb">
+      <DependentUpon>frm_home.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ins_delete.Designer.vb">
+      <DependentUpon>frm_ins_delete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ins_delete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ins_modify.Designer.vb">
+      <DependentUpon>frm_ins_modify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ins_modify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ins_new.Designer.vb">
+      <DependentUpon>frm_ins_new.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ins_new.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_loan_delete.Designer.vb">
+      <DependentUpon>frm_loan_delete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_loan_delete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_loan_modify.Designer.vb">
+      <DependentUpon>frm_loan_modify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_loan_modify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_loan_new.Designer.vb">
+      <DependentUpon>frm_loan_new.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_loan_new.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_login.Designer.vb">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_pra_delete.Designer.vb">
+      <DependentUpon>frm_pra_delete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_pra_delete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_pra_modify.Designer.vb">
+      <DependentUpon>frm_pra_modify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_pra_modify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_pra_new.Designer.vb">
+      <DependentUpon>frm_pra_new.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_pra_new.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_sr_acno.Designer.vb">
+      <DependentUpon>frm_sr_acno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_sr_acno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_sr_pn.Designer.vb">
+      <DependentUpon>frm_sr_pn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_sr_pn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_sr_vn.Designer.vb">
+      <DependentUpon>frm_sr_vn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_sr_vn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_statistics.Designer.vb">
+      <DependentUpon>frm_statistics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_statistics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_sub_delete.Designer.vb">
+      <DependentUpon>frm_sub_delete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_sub_delete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_sub_modify.Designer.vb">
+      <DependentUpon>frm_sub_modify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_sub_modify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_sub_new.Designer.vb">
+      <DependentUpon>frm_sub_new.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_sub_new.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_trans.Designer.vb">
+      <DependentUpon>frm_trans.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_trans.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_login_modify.Designer.vb">
+      <DependentUpon>frm_login_modify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_login_modify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_stat_loan.Designer.vb">
+      <DependentUpon>frm_stat_loan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_stat_loan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_stat_pra.Designer.vb">
+      <DependentUpon>frm_stat_pra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_stat_pra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="class_validation_functions_loan.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frm_about.resx">
+      <DependentUpon>frm_about.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_home.resx">
+      <DependentUpon>frm_home.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ins_delete.resx">
+      <DependentUpon>frm_ins_delete.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ins_modify.resx">
+      <DependentUpon>frm_ins_modify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ins_new.resx">
+      <DependentUpon>frm_ins_new.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_loan_delete.resx">
+      <DependentUpon>frm_loan_delete.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_loan_modify.resx">
+      <DependentUpon>frm_loan_modify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_loan_new.resx">
+      <DependentUpon>frm_loan_new.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_login_modify.resx">
+      <DependentUpon>frm_login_modify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_pra_delete.resx">
+      <DependentUpon>frm_pra_delete.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_pra_modify.resx">
+      <DependentUpon>frm_pra_modify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_pra_new.resx">
+      <DependentUpon>frm_pra_new.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_sr_acno.resx">
+      <DependentUpon>frm_sr_acno.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_sr_pn.resx">
+      <DependentUpon>frm_sr_pn.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_sr_vn.resx">
+      <DependentUpon>frm_sr_vn.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_statistics.resx">
+      <DependentUpon>frm_statistics.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_sub_delete.resx">
+      <DependentUpon>frm_sub_delete.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_sub_modify.resx">
+      <DependentUpon>frm_sub_modify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_sub_new.resx">
+      <DependentUpon>frm_sub_new.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_trans.resx">
+      <DependentUpon>frm_trans.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_stat_loan.resx">
+      <DependentUpon>frm_stat_loan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_stat_pra.resx">
+      <DependentUpon>frm_stat_pra.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_Loan.rdlc" />
+    <EmbeddedResource Include="Report_pra.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.8.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Studio 2008 Report Viewer</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\Useraccount.JPG" />
+    <None Include="Resources\Creative.jpg" />
+    <None Include="TripuraSynod_v1_TemporaryKey.pfx" />
+    <None Include="Resources\Homepage_logo_1.png" />
+    <None Include="Resources\Banner 3.jpg" />
+    <None Include="Resources\Homepage_logo_2.jpg" />
+    <Content Include="Presbyterian_ICON.ico" />
+    <None Include="Resources\Homepage_logo_21.jpg" />
+    <Content Include="synod_db.mdf">
+    </Content>
+    <Content Include="synod_db_log.ldf">
+      <DependentUpon>synod_db.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

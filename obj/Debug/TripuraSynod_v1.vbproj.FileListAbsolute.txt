@@ -1,0 +1,316 @@
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.config
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.manifest
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.application
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.pdb
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.xml
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\ResolveAssemblyReference.cache
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_about.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_home.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_delete.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_modify.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_new.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_delete.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_modify.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_new.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login_modify.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_delete.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_modify.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_new.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_acno.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_pn.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_vn.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_statistics.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_delete.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_modify.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_new.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_trans.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_loan.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_pra.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.Resources.resources
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.vbproj.GenerateResource.Cache
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\RdlCompile.cache
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\RdlCompile.compiled
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe.manifest
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.application
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.xml
+F:\IMPORTANT\25.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.pdb
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.config
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.xml
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.pdb
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.manifest
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.application
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.pdb
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.xml
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\ResolveAssemblyReference.cache
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_about.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_home.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_delete.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_modify.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_new.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_delete.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_modify.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_new.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login_modify.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_delete.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_modify.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_new.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_acno.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_pn.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_vn.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_statistics.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_delete.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_modify.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_new.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_trans.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_loan.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_pra.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.Resources.resources
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.vbproj.GenerateResource.Cache
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\RdlCompile.cache
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\RdlCompile.compiled
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe.manifest
+F:\IMPORTANT\26.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.application
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.config
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.xml
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.pdb
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.manifest
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.application
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.pdb
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.xml
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\ResolveAssemblyReference.cache
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_about.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_home.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_delete.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_modify.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_new.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_delete.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_modify.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_new.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login_modify.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_delete.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_modify.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_new.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_acno.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_pn.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_vn.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_statistics.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_delete.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_modify.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_new.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_trans.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_loan.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_pra.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.Resources.resources
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.vbproj.GenerateResource.Cache
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\RdlCompile.cache
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\RdlCompile.compiled
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe.manifest
+F:\IMPORTANT\26.6.13\SETUP\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.application
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.config
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.xml
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.pdb
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.manifest
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.application
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.pdb
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.xml
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\ResolveAssemblyReference.cache
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_about.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_home.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_delete.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_modify.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_new.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_delete.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_modify.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_new.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login_modify.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_delete.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_modify.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_new.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_acno.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_pn.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_vn.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_statistics.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_delete.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_modify.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_new.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_trans.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_loan.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_pra.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.Resources.resources
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.vbproj.GenerateResource.Cache
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\RdlCompile.cache
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\RdlCompile.compiled
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe.manifest
+F:\IMPORTANT\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.application
+F:\DropBox\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.config
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.xml
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.pdb
+F:\DropBox\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.manifest
+F:\DropBox\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.application
+F:\DropBox\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe
+F:\DropBox\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.pdb
+F:\DropBox\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.xml
+F:\DropBox\TripuraSynod_v1\obj\Debug\ResolveAssemblyReference.cache
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_about.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_home.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_delete.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_modify.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_new.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_delete.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_modify.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_new.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login_modify.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_delete.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_modify.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_new.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_acno.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_pn.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_vn.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_statistics.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_delete.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_modify.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_new.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_trans.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_loan.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_pra.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.Resources.resources
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.vbproj.GenerateResource.Cache
+F:\DropBox\TripuraSynod_v1\obj\Debug\RdlCompile.cache
+F:\DropBox\TripuraSynod_v1\obj\Debug\RdlCompile.compiled
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe.manifest
+F:\DropBox\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.application
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.config
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.xml
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.pdb
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.manifest
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.application
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.pdb
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.xml
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\ResolveAssemblyReference.cache
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_about.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_home.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_delete.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_modify.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_new.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_delete.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_modify.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_new.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login_modify.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_delete.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_modify.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_new.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_acno.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_pn.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_vn.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_statistics.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_delete.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_modify.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_new.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_trans.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_loan.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_pra.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.Resources.resources
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.vbproj.GenerateResource.Cache
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\RdlCompile.cache
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\RdlCompile.compiled
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe.manifest
+F:\DATA\My program collection\Project Mizoram Synod 2013\27.6.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.application
+F:\DropBox\New folder\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.config
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.xml
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.pdb
+F:\DropBox\New folder\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.manifest
+F:\DropBox\New folder\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.application
+F:\DropBox\New folder\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe
+F:\DropBox\New folder\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.pdb
+F:\DropBox\New folder\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.xml
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\ResolveAssemblyReference.cache
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_about.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_home.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_delete.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_modify.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_new.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_delete.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_modify.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_new.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login_modify.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_delete.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_modify.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_new.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_acno.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_pn.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_vn.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_statistics.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_delete.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_modify.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_new.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_trans.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_loan.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_pra.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.Resources.resources
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.vbproj.GenerateResource.Cache
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\RdlCompile.cache
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\RdlCompile.compiled
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe.manifest
+F:\DropBox\New folder\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.application
+F:\DATA\My program collection\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.config
+F:\DATA\My program collection\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe
+F:\DATA\My program collection\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.xml
+F:\DATA\My program collection\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.pdb
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.config
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.xml
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.pdb
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe.manifest
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.application
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.exe
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.pdb
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\bin\Debug\TripuraSynod_v1.xml
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\ResolveAssemblyReference.cache
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_about.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_home.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_delete.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_modify.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_ins_new.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_delete.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_modify.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_loan_new.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_login_modify.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_delete.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_modify.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_pra_new.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_acno.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_pn.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sr_vn.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_statistics.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_delete.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_modify.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_sub_new.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_trans.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_loan.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.frm_stat_pra.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.Resources.resources
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.vbproj.GenerateResource.Cache
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\RdlCompile.cache
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\RdlCompile.compiled
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.exe.manifest
+F:\WORKSPACE\Project Mizoram Synod 2013\2.7.13\TripuraSynod_v1\obj\Debug\TripuraSynod_v1.application
